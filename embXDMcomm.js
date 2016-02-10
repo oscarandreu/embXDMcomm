@@ -1,6 +1,6 @@
 /**
  * @name        embXDMcomm v1.0.0 
- * @description BetuniQ Cross domain communication.  
+ * @description Cross domain communication.  
  * @author      Óscar Andreu Martínez, David López Rguez
  *
  * Copyright © 2013 UNIQ GROUP Ltd.
